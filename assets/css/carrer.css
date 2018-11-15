@@ -325,14 +325,14 @@ ul {
     margin-top: 58px; }
     .banner-area .bannder-content .profile-name h1 {
       font-size: 50px;
-      line-height: 31px;
+      line-height: 50px;
       font-weight: 900;
       text-transform: uppercase;
       letter-spacing: 2px;
       margin-bottom: 20px; }
     .banner-area .bannder-content .profile-name p {
       font-size: 20px;
-      line-height: 50px;
+      line-height: 32px;
       font-weight: 700;
       text-transform: uppercase;
       letter-spacing: 5px; }

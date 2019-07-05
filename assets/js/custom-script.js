@@ -54,7 +54,7 @@ $('#container').imagesLoaded(function () {
    
 $('.skills-list').appear(function() {
 	$('#demoprogressbar1').LineProgressbar({
-		percentage: 90,
+		percentage: 100,
 		fillBackgroundColor: '#4cb050',
 		backgroundColor: '#1b1b1b',
 		height: '10px',
@@ -62,35 +62,49 @@ $('.skills-list').appear(function() {
 
 	});
 	$('#demoprogressbar2').LineProgressbar({
-		percentage: 100,
+		percentage: 65,
 		fillBackgroundColor: '#8bc24a',
 		backgroundColor: '#1b1b1b',
 		height: '10px',
 		radius: '6px',
 	});
 	$('#demoprogressbar3').LineProgressbar({
-		percentage: 85,
+		percentage: 100,
 		fillBackgroundColor: '#ff9700',
 		backgroundColor: '#1b1b1b',
 		height: '10px',
 		radius: '6px',
 	});
 	$('#demoprogressbar4').LineProgressbar({
-		percentage: 100,
+		percentage: 75,
 		fillBackgroundColor: '#ff7800',
 		backgroundColor: '#1b1b1b',
 		height: '10px',
 		radius: '6px',
 	});
 	$('#demoprogressbar5').LineProgressbar({
-		percentage: 95,
+		percentage: 80,
 		fillBackgroundColor: '#fe5722',
 		backgroundColor: '#1b1b1b',
 		height: '10px',
 		radius: '6px',
 	});
 	$('#demoprogressbar6').LineProgressbar({
-		percentage: 75,
+		percentage: 95,
+		fillBackgroundColor: '#fe5722',
+		backgroundColor: '#1b1b1b',
+		height: '10px',
+		radius: '6px',
+	});
+	$('#demoprogressbar7').LineProgressbar({
+		percentage: 90,
+		fillBackgroundColor: '#fe5722',
+		backgroundColor: '#1b1b1b',
+		height: '10px',
+		radius: '6px',
+	});
+	$('#demoprogressbar8').LineProgressbar({
+		percentage: 45,
 		fillBackgroundColor: '#fe5722',
 		backgroundColor: '#1b1b1b',
 		height: '10px',
